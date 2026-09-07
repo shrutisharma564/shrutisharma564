@@ -90,27 +90,24 @@ Currently, I am strengthening my skills in **Java, C++, DSA, SQL, Web Developmen
 ### 🛡️ NetShield AI
 **AI-powered Network Anomaly Detection & Threat Monitoring System**
 
-- Network traffic monitoring and analysis
-- Anomaly detection using Machine Learning
-- Threat classification
-- Interactive monitoring dashboard
-- Backend API and database integration
+- Monitors and analyzes network traffic
+- Detects unusual network activity using Machine Learning
+- Provides threat classification and monitoring insights
+- Built with a modern web dashboard and backend API
 
-**Tech:** Python • FastAPI • React • TypeScript • PostgreSQL • SQLAlchemy • Scikit-learn
+**Tech:** Python • FastAPI • React • TypeScript • PostgreSQL • Scikit-learn
 
 🔗 [View Repository](https://github.com/shrutisharma564/NetShield-AI)
 
 ---
 
 ### 📄 Smart Resume Scorer
+**Resume Screening & Candidate Evaluation System**
 
-A resume screening and candidate evaluation application designed to analyze resumes and generate candidate scores.
-
-- Resume PDF parsing
-- Skill matching and candidate evaluation
-- Candidate scoring and ranking
-- Database integration
-- Report generation
+- Parses resumes from PDF files
+- Evaluates candidates based on skills and relevant information
+- Provides candidate scoring and ranking
+- Stores application data using a relational database
 
 **Tech:** Java • Swing • MySQL • JDBC • Apache PDFBox
 
@@ -118,25 +115,9 @@ A resume screening and candidate evaluation application designed to analyze resu
 
 ---
 
-### 🏆 Arena Master — League & Knockout Tournament System
-
-A tournament management system for organizing league and knockout competitions.
-
-- Player/team registration
-- Match scheduling
-- Tournament standings
-- Data structure-based management
-- Web-based interface
-
-**Tech:** C++ • Python • Flask • Data Structures
-
-🔗 [View Repository](https://github.com/shrutisharma564/arena-master-league-knockout-showdown)
-
----
-
 ### 🎟️ Movie Ticket Booking System
 
-A software project focused on managing movie ticket booking and related operations.
+A software project focused on movie and ticket booking management.
 
 - Movie and show management
 - Ticket booking workflow
@@ -149,22 +130,35 @@ A software project focused on managing movie ticket booking and related operatio
 
 ---
 
+### 🏆 Arena Master — League & Knockout Tournament System
+
+A tournament management system designed to organize league and knockout competitions.
+
+- Player/team registration
+- Match scheduling
+- Tournament standings
+- Data structure-based management
+
+**Tech:** C++ • Python • Flask • Data Structures
+
+🔗 [View Repository](https://github.com/shrutisharma564/arena-master-league-knockout-showdown)
+
+---
+
 ### 🍱 Online Food Monitoring System
 
-A food inventory and order management system developed to manage stock and customer orders.
+A food inventory and order management system for managing stock and customer orders.
 
 - Food inventory tracking
 - Order processing
 - Feedback management
-- File handling
-- Data management
+- File-based data management
 
 **Tech:** C • File Handling • Data Structures
 
 🔗 [View Repository](https://github.com/shrutisharma564/online-food-monitoring-system)
 
 ---
-
 ## 💼 Experience
 
 ### GeeksforGeeks — Campus Mantri
