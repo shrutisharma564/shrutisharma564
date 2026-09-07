@@ -24,11 +24,11 @@
 
 ## 👩‍💻 About Me
 
-I am a Computer Science Engineering student interested in **Software Development, Full-Stack Web Development, and Data Structures & Algorithms**.
+I am a Computer Science Engineering student focused on Software Development, Full-Stack Web Development, and Data Structures & Algorithms.
 
-I enjoy building practical applications, solving programming problems, working with databases, and understanding how software systems are designed and developed.
+I enjoy building practical applications, solving programming problems, working with databases, and developing software that solves real-world problems.
 
-Currently, I am strengthening my skills in **Java, C++, DSA, SQL, Web Development, React, Node.js, and Core Computer Science** while building projects to improve my development skills.
+Currently, I am strengthening my skills in DSA, Core Computer Science, Java, C++, Web Development, SQL, and Software Engineering while building hands-on projects.
 
 - 🎓 B.Tech in Computer Science Engineering | 2024–2028
 - 💻 Interested in Software Development & Full-Stack Development
@@ -41,48 +41,23 @@ Currently, I am strengthening my skills in **Java, C++, DSA, SQL, Web Developmen
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Java-800020?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-C2185B?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-800020?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-C2185B?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-800020?style=for-the-badge&logo=javascript&logoColor=white"/>
-</p>
+### 💻 Languages
+Java • C++ • Python • C • JavaScript
 
 ### 🌐 Web Development
+HTML • CSS • JavaScript • React • Node.js • Flask
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-800020?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-C2185B?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-800020?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-E8A0BF?style=for-the-badge&logo=react&logoColor=800020"/>
-  <img src="https://img.shields.io/badge/Flask-C2185B?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
-
-### 🗄️ Database & Backend
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-800020?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-C2185B?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JDBC-800020?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend%20Development-C2185B?style=for-the-badge"/>
-</p>
+### 🗄️ Database
+SQL • MySQL • JDBC
 
 ### 🧠 Core Computer Science
+Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks
 
-`OOP` • `DSA` • `DBMS` • `Operating Systems` • `Computer Networks` • `Problem Solving`
+### ☁️ Tools & Technologies
+Git • GitHub • AWS • Apache PDFBox
 
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Git-800020?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-C2185B?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-800020?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20PDFBox-C2185B?style=for-the-badge"/>
-</p>
-
+### 🤖 Additional Interests
+Artificial Intelligence • Machine Learning • Cybersecurity
 ---
 
 ## 🚀 Featured Projects
@@ -179,7 +154,7 @@ A food inventory and order management system for managing stock and customer ord
 
 ## 🏅 Achievements
 
-- 🎯 Solved **150+ programming problems** across coding platforms
+- 🎯 Solved **100+ programming problems** across coding platforms
 - 🏆 Selected as **GeeksforGeeks Campus Mantri**
 - 🚀 Selected for **Infosys Springboard Virtual Internship 7.0**
 - 📚 Strong academic foundation in Computer Science fundamentals
@@ -195,10 +170,9 @@ A food inventory and order management system for managing stock and customer ord
 - **AWS-related Developer Training** — Infosys Springboard
 
 ---
-
 ## 💻 Coding & Problem Solving
 
-I regularly practice **Data Structures & Algorithms** and focus on improving my problem-solving skills.
+I regularly practice Data Structures & Algorithms and focus on improving my problem-solving skills.
 
 ### Areas I Practice
 
@@ -210,6 +184,12 @@ I regularly practice **Data Structures & Algorithms** and focus on improving my 
 - Recursion
 - Dynamic Programming
 - Object-Oriented Programming
+
+### 🔗 Coding Profiles
+
+- 💻 [LeetCode](https://leetcode.com/u/shrutii_sharma/)
+- 🧩 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/shrutishaduvl)
+- 🏆 [Unstop](https://unstop.com/u/shrutsha43005)
 
 ---
 
@@ -225,16 +205,15 @@ I regularly practice **Data Structures & Algorithms** and focus on improving my 
 </p>
 
 ---
-
 ## 🌱 Currently Learning
 
-```text
-DSA & Problem Solving
-Java
-Full-Stack Web Development
-React
-Node.js
-SQL
-Backend Development
-Core Computer Science
-Software Engineering
+- Data Structures & Algorithms
+- Java & C++
+- Full-Stack Web Development
+- React & Node.js
+- SQL & Database Management
+- Backend Development
+- Core Computer Science
+- Software Engineering
+
+
