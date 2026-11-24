@@ -216,17 +216,14 @@ I regularly practice Data Structures & Algorithms and focus on improving my prob
 - Core Computer Science
 - Software Engineering
 
+
 <h2 align="center">🐍 My GitHub Contribution Snake</h2>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/shrutisharma564/shrutisharma564/output/github-contribution-grid-snake-dark.svg">
-
-    <img
-      src="https://raw.githubusercontent.com/shrutisharma564/shrutisharma564/output/github-contribution-grid-snake.svg"
-      alt="Purple GitHub Contribution Snake"
-      width="100%">
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/shrutisharma564/shrutisharma564/output/github-contribution-grid-snake.svg"
+    alt="Purple GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
+
