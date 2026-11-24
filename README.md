@@ -217,3 +217,9 @@ I regularly practice Data Structures & Algorithms and focus on improving my prob
 - Software Engineering
 
 
+<h2 align="center">🐍 My GitHub Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shrutisharma564/shrutisharma564/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
