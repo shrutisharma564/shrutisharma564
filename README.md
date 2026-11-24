@@ -216,7 +216,6 @@ I regularly practice Data Structures & Algorithms and focus on improving my prob
 - Core Computer Science
 - Software Engineering
 
-
 <h2 align="center">🐍 My GitHub Contribution Snake</h2>
 
 <p align="center">
@@ -231,4 +230,3 @@ I regularly practice Data Structures & Algorithms and focus on improving my prob
       width="100%">
   </picture>
 </p>
-
